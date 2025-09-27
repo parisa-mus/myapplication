@@ -71,13 +71,9 @@ main {
   justify-content: space-between;
 }
 
-.details strong {
-  color: #f65282;
-}
-
 .icon {
   font-size: 100px;
-  margin-top: 22px;
+  margin-top: 15px;
   text-align: center;
 }
 
